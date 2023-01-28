@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "100549028819",
+    "project_id": "real-rent-79faf",
+    "storage_bucket": "real-rent-79faf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100549028819:android:4d344b93d17d3960e95d26",
+        "android_client_info": {
+          "package_name": "com.talhaiqbal.renthouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100549028819-00ne02td43vnta0vtbhi8eiksght27um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIc5NJ1nXaPgzMfFr5ZSnLy3XY4rRr-Iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100549028819-00ne02td43vnta0vtbhi8eiksght27um.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

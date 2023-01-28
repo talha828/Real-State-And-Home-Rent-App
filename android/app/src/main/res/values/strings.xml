@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flutter Adhouse</string>
+    <string name="facebook_app_id">000000000000000</string>
+
+    <string name="fb_login_protocol_scheme">fb000000000000000</string>
+
+    <string name="android__admob_ads_id_key">ca-app-pub-0000000000000000~0000000000</string>
+
+    <string name="google_map_key">AI00000000000000000000-0000000000000000</string>
+    
+</resources>
